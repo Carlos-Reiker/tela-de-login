@@ -1,2 +1,25 @@
-# tela-de-login
-  # Tela de Login  Uma tela de login de uso genérico, com opção de entrada com e-mail, telefone e senha.  ## Autores  - [@carlosreiker](https://github.com/Carlos-Reiker)   ## Funcionalidades  - Temas dark e light - Ocultar/exibir senha - link "Esqueci minha senha"    ## Stack utilizada  **Front-end:** HTML, CSS, JavaScript
+
+# Tela de Login
+
+Tela de login genérica com método de entrada e-mail/ telefone e senha. Útil para validar usuários.
+
+
+## Autores
+
+- [@carlosreiker](https://github.com/Carlos-Reiker)
+
+
+## Funcionalidades
+
+- Temas dark e light
+- Ocultar/exibir senha digitada
+- Link de "Esqueci minha senha"
+
+
+
+## Stack utilizada
+
+**Front-end:** HTML, CSS, JavaScript
+
+
+
