@@ -8,12 +8,17 @@ main{
     margin: 5rem auto;
     background-color: aqua;
 }
+h1{
 
+    
+}
 .form-login{
     width: 35rem;
     height: 100%;
     margin: auto;
     background-color: violet;
-    display: block;
-    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
