@@ -17,6 +17,9 @@ form {
     height: 100%;
     margin: auto;
 }
+.container{
+    padding: 5em 1.5em;
+}
 input[type=email], input[type=password]{
     width: 100%;
     padding: 15px 20px;
