@@ -37,4 +37,6 @@ button{
     border-radius: 30px;
     border: 1px solid #8F9092;
     transition: all 0.2s ease;
+    color: #606060;
+    text-shadow: 0 1px #fff;
 }
