@@ -53,7 +53,12 @@ input[type=email], input[type=password]{
 input:focus{
     border: 1px solid #A873D1;
 }
-
+.lnr-eye {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    cursor: pointer;
+}
 
                 /*button*/
 button{
