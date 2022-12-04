@@ -53,6 +53,7 @@ input[type=email], input[type=password], input[type=text]{
 input:focus{
     border: 1px solid #A873D1;
 }
+                /*show/hide password*/
 #eye{
     cursor: pointer;
     position: absolute;

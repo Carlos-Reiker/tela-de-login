@@ -1,3 +1,4 @@
+//Function to show/hide password
 document.getElementById('eye').addEventListener('mousedown', function(){
     document.getElementById('pass').type = 'text';
 });
