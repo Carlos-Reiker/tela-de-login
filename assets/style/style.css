@@ -29,7 +29,7 @@ main{
 }
                 /*form content*/
 form {
-    border: 3px solid #f1f1f1;
+    border: 3px solid#835AA3;
     width: 35rem;
     height: 100%;
     margin: auto;
@@ -47,7 +47,9 @@ input[type=email], input[type=password]{
     display: inline-block;
     box-sizing: border-box;
     border: 1px solid #dbdbdb;
+    outline: 0;
 }
+
                 /*button*/
 button{
     font-size: 18px;
