@@ -3,9 +3,7 @@
     #E6FFAB
     #C8E683
     #7F3999
-    #CA83E6    
-*/
-
+    #CA83E6    */
 *{
     margin: 0;
     padding: 0;
@@ -19,6 +17,7 @@ main{
     height: 40rem;
     margin: 5rem auto;
 }
+                /*title H1*/
 #login{
     text-decoration: none;
     color: black;
@@ -32,6 +31,7 @@ main{
 .h1-container{
     padding-left: 10em;
 }
+                /*form content*/
 form {
     border: 3px solid #f1f1f1;
     width: 35rem;
@@ -49,6 +49,7 @@ input[type=email], input[type=password]{
     box-sizing: border-box;
     border: 1px solid #dbdbdb;
 }
+                /*button*/
 button{
     font-size: 18px;
     width: 100%;
@@ -71,6 +72,7 @@ button:active {
 button:focus {
     box-shadow: 0 4px 3px 1px #FCFCFC, 0 6px 8px #D6D7D9, 0 -4px 4px #CECFD1, 0 -6px 4px #FEFEFE, inset 0 0 5px 3px #999, inset 0 0 30px #aaa;
 }
+                /*link forget password*/
 .link-container {  
     text-align: center;
 }
