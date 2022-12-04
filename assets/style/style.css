@@ -40,7 +40,7 @@ label{
 .container{
     padding: 4em 1.5em;
 }
-input[type=email], input[type=password]{
+input[type=email], input[type=password], input[type=text]{
     width: 100%;
     font-size: 17px;
     padding: 15px 20px;
@@ -53,11 +53,9 @@ input[type=email], input[type=password]{
 input:focus{
     border: 1px solid #A873D1;
 }
-.lnr-eye {
-    position: absolute;
-    top: 5px;
-    right: 10px;
+#eye{
     cursor: pointer;
+    position: absolute;
 }
 
                 /*button*/
