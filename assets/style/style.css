@@ -11,6 +11,16 @@ main{
     height: 40rem;
     margin: 5rem auto;
 }
+#login{
+    text-decoration: none;
+    color: black;
+}
+#login:hover{
+    font-weight: 600;
+}
+#login:visited{
+    color: black;
+}
 .h1-container{
     padding-left: 10em;
 }
@@ -22,7 +32,6 @@ form {
 }
 .container{
     padding: 4em 1.5em;
-    
 }
 input[type=email], input[type=password]{
     width: 100%;
@@ -57,13 +66,13 @@ button:focus {
 .link-container {  
     text-align: center;
 }
-a:link{
+#forget{
     text-decoration: none;
-    color: red;
+    color: black;
 }
-a:hover{
+#forget:hover{
     font-weight: 600;
 }
-a:visited{
-    color: red;
+#forget:visited{
+    color: black;
 }
