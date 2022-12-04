@@ -66,21 +66,21 @@ button{
     height: 3em;
     margin: 3em 0;
     cursor: pointer;
-    background-image: linear-gradient(to top, #D8D9DB 0%, #fff 80%, #FDFDFD 100%);
+    background-color: #9942DB;
     border-radius: 30px;
     border: 1px solid #8F9092;
     transition: all 0.2s ease;
-    color: #606060;
+    color: #E6F1FF;
     text-shadow: 0 1px #fff;
 }
 button:hover {
-    box-shadow: 0 4px 3px 1px #FCFCFC, 0 6px 8px #D6D7D9, 0 -4px 4px #CECFD1, 0 -6px 4px #FEFEFE, inset 0 0 3px 3px #CECFD1;
+    box-shadow: 0 4px 3px 1px #C587F5, 0 6px 8px #C587F5, 0 -4px 4px #C587F5, 0 -6px 4px #C587F5, inset 0 0 3px 3px #FFDE38;
 }
 button:active {
-    box-shadow: 0 4px 3px 1px #FCFCFC, 0 6px 8px #D6D7D9, 0 -4px 4px #CECFD1, 0 -6px 4px #FEFEFE, inset 0 0 5px 3px #999, inset 0 0 30px #aaa;
+    box-shadow: 0 4px 3px 1px #C587F5, 0 6px 8px #C587F5, 0 -4px 4px #C587F5, 0 -6px 4px #C587F5, inset 0 0 5px 3px #FFDE38, inset 0 0 30px #FFDE38;
 }
 button:focus {
-    box-shadow: 0 4px 3px 1px #FCFCFC, 0 6px 8px #D6D7D9, 0 -4px 4px #CECFD1, 0 -6px 4px #FEFEFE, inset 0 0 5px 3px #999, inset 0 0 30px #aaa;
+    box-shadow: 0 4px 3px 1px #C587F5, 0 6px 8px #C587F5, 0 -4px 4px #C587F5, 0 -6px 4px #C587F5, inset 0 0 5px 3px #FFDE38, inset 0 0 30px #FFDE38;
 }
                 /*link forget password*/
 .link-container {  
