@@ -1,9 +1,4 @@
-/*colors 
-    #819948
-    #E6FFAB
-    #C8E683
-    #7F3999
-    #CA83E6    */
+
 *{
     margin: 0;
     padding: 0;
@@ -11,6 +6,7 @@
 body{
     font-family: 'Montserrat', sans-serif;
     font-size: 23px;
+    background-color: #C1CBD6;
 }
 main{
     width: 100%;
@@ -20,13 +16,13 @@ main{
                 /*title H1*/
 #login{
     text-decoration: none;
-    color: black;
+    color: #4D6C8F;
 }
 #login:hover{
     font-weight: 600;
 }
 #login:visited{
-    color: black;
+    color: #4D6C8F;
 }
 .h1-container{
     padding-left: 10em;
@@ -37,6 +33,9 @@ form {
     width: 35rem;
     height: 100%;
     margin: auto;
+}
+label{
+    color: #4D6C8F;
 }
 .container{
     padding: 4em 1.5em;
@@ -78,11 +77,11 @@ button:focus {
 }
 #forget{
     text-decoration: none;
-    color: black;
+    color: #4D6C8F;
 }
 #forget:hover{
     font-weight: 600;
 }
 #forget:visited{
-    color: black;
+    color: #4D6C8F;
 }
